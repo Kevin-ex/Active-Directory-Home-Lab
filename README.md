@@ -1,4 +1,4 @@
-<h1>Avtive Directory Home Lab: Renaming Server 2022</h1>
+<h1>Active Directory Home Lab: Renaming Server 2022</h1>
 
 <h2>Description</h2>
 Renaming Server 2022 simplifies the default name and allows for the implementation of a naming convention. Thus, improving clarity for admins and users. Especially in environments that use many servers and integrating systems.
