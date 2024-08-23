@@ -20,7 +20,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Select File Explorer, right-click "This PC," now click "Properties <br/>
-<img src="https://imgur.com/a/cgsrpXJ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/drICMO2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select "Rename this pc" to change the highlighted name  <br/>
