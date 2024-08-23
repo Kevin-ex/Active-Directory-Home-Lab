@@ -1,7 +1,7 @@
 <h1>Avtive Directory Home Lab: Renaming Server 2022</h1>
 
 <h2>Description</h2>
-In this part of the project. We will be changing the default name on Server 2022. Changing the name on machines allows for a naming convention to be created. In return, admins and users will get clarity.
+Renaming Server 2022 simplifies the default name and allows for the implementation of a naming convention. Thus, improving clarity for admins and users. Especially in environments that use many servers and integrating systems.
 <br />
 
 
